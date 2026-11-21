@@ -1,0 +1,13 @@
+algoritmo,n,lcs,tiempo_s,memoria_kib
+B_hirschberg,100,61,0.001392,4.2
+C_programacion_dinamica,100,61,0.000637,49.7
+B_hirschberg,250,158,0.008050,7.1
+C_programacion_dinamica,250,158,0.003874,270.6
+B_hirschberg,500,320,0.032359,12.9
+C_programacion_dinamica,500,320,0.016925,1029.3
+B_hirschberg,1000,645,0.134796,22.8
+C_programacion_dinamica,1000,645,0.073775,4011.9
+B_hirschberg,2000,1296,0.568802,41.8
+C_programacion_dinamica,2000,1296,0.304517,15835.2
+B_hirschberg,4000,2604,2.384378,78.0
+C_programacion_dinamica,4000,2604,1.248814,62921.6
